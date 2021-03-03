@@ -1,4 +1,4 @@
-  */*.pptx
+*/*.pptx
 .DS_Store
 */.ipynb_checkpoints
 lab4/Cats_and_Dogs.zip
